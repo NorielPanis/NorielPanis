@@ -19,3 +19,6 @@ I'm an aspiring full stack developer in all fields
 [![](https://komarev.com/ghpvc/?username=NorielPanis&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake](https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/snake-purple.svg)
