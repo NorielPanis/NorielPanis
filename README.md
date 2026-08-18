@@ -34,3 +34,5 @@ I'm currently developing ArmBot (An app for our SIP project)
 
 
 ![Snake Animation](https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/github-snake-dark.svg)
+
+
