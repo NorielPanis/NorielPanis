@@ -40,7 +40,7 @@ I'm currently developing ArmBot (An app for our SIP project)
 
 <!-- Pac-Man Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" width="100%" />
 </p>
 
 
