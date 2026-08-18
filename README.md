@@ -1,6 +1,13 @@
 # 💫 About Me:
 I'm an aspiring full stack developer in all fields
+<p align="center">
+  <img src="https://i.gifer.com/fetch/w300-preview/61/61e89b4f624e5a953a77bd541f7e34e2.gif" alt="Pixel Art Header" width="100%" />
+</p>
 
+<!-- BIO (Reflecting content from user input and style from image_2.png) -->
+<h1 align="center">💫 Hi! I'm Noriel Panis</h1>
+
+<h3 align="center">Aspiring Full Stack Developer (all fields)</h3>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:norielp27@gmail.com) 
