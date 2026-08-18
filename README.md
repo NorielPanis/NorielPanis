@@ -21,4 +21,4 @@ I'm an aspiring full stack developer in all fields
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake](https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/snake-purple.svg)
+![Snake Animation](https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/github-snake-dark.svg)
