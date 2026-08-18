@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@main/assets/banners/banner_01.gif" alt="Pixel Art Header" width="100%" />
-</p>
+
+
+
+
+
+
+<img width="480" height="480" alt="Working Locked In GIF by ChesterAbstract" src="https://github.com/user-attachments/assets/4a1a8160-f1bc-4c80-8acd-320a9f542e13" />
 
 <!-- BIO (Reflecting content from user input and style from image_2.png) -->
 <h1 align="center">💫 Hi! I'm Noriel Panis</h1>
