@@ -1,10 +1,10 @@
+<p align="center">
+<img width="100%" height="50%" height="281" alt="coding" src="https://github.com/user-attachments/assets/d02b69ed-c8cd-42c1-be67-56762094a2df" />
+</p>
 
-
-
-
-
-
-<img width="480" height="480" alt="Working Locked In GIF by ChesterAbstract" src="https://github.com/user-attachments/assets/4a1a8160-f1bc-4c80-8acd-320a9f542e13" />
+<p align="center">
+  <img width="100%" height="50%" alt="Pixel Art 8Bit GIF by pixel jeff" src="https://github.com/user-attachments/assets/8e6a2203-322e-4e05-9bec-9c142b1cce5e?raw=true" />
+</p>
 
 <!-- BIO (Reflecting content from user input and style from image_2.png) -->
 <h1 align="center">💫 Hi! I'm Noriel Panis</h1>
