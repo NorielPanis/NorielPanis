@@ -42,9 +42,5 @@
   <img src="https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/github-snake-dark.svg?v=2" alt="Snake Animation" width="100%" />
 </p>
 
-<!-- Pac-Man Graph (Dark) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/pacman-contribution-graph-dark.svg?=v1" alt="Pac-Man Contribution Graph" width="100%" />
-</p>
 
 
