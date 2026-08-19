@@ -9,10 +9,14 @@
 <!-- BIO (Reflecting content from user input and style from image_2.png) -->
 <h1 align="center">💫 Hi! I'm Noriel Panis</h1>
 
-<h3 align="center">Aspiring Full Stack Developer (all fields)</h3>
+<h3 align="center">I'm an aspiring Full Stack Developer (all fields) and CS student</h3>
 
 # 💫 About Me:
-I'm currently developing ArmBot (An app for our SIP project)
+• I'm a Grade 11 TVL - Programming in C# .NET Technology Framework Development student <br>
+• I'm currently developing an application for ArmBot & D-UAV (it's for our Science Investigatory Project in Robotics and Innovation Science)<br>
+• I'm studying different programming languages <br>
+• Inspired to learn LLMs/MLs <br>
+• Inspired to learn Data Structures and Algorithms in different languages <br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:norielp27@gmail.com) 
@@ -40,7 +44,7 @@ I'm currently developing ArmBot (An app for our SIP project)
 
 <!-- Pac-Man Graph (Dark) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/pacman-contribution-graph-dark.svg?v=2" alt="Pac-Man Contribution Graph" width="100%" />
+  ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/pacman-contribution-graph.svg)
 </p>
 
 
