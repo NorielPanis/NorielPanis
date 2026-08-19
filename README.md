@@ -43,6 +43,8 @@
 </p>
 
 <!-- Pac-Man Graph (Dark) -->
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/pacman-contribution-graph-dark.svg?=v1)
+<p align="center>
+<img src="https://raw.githubusercontent.com/NorielPanis/NorielPanis/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</p>
 
 
